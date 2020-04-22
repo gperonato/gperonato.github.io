@@ -5,12 +5,20 @@
     <link>/author/marilyne-andersen/</link>
       <atom:link href="/author/marilyne-andersen/index.xml" rel="self" type="application/rss+xml" />
     <description>Marilyne Andersen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Marilyne Andersen</title>
       <link>/author/marilyne-andersen/</link>
     </image>
+    
+    <item>
+      <title>Energy performance and occupancy-based analysis of visual and thermal comfort for transmittance level and layout variations of semi-transparent photovoltaics</title>
+      <link>/publication/chinazzo-energy-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chinazzo-energy-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3D model discretization in assessing urban solar potential: the effect of grid spacing on predicted solar irradiation</title>
@@ -33,6 +41,14 @@
       <link>/publication/peronato-assessing-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/peronato-assessing-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of the Building‐Integrated Photovoltaic potential in urban renewal processes in the Swiss context: Complementarity of urban‐ and architectural‐scale analyses</title>
+      <link>/publication/aguacil-moreno-assessment-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/aguacil-moreno-assessment-2018/</guid>
       <description></description>
     </item>
     
