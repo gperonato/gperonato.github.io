@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D city model | Giuseppe Peronato</title>
+    <link>/tag/3d-city-model/</link>
+      <atom:link href="/tag/3d-city-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D city model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3D city model</title>
+      <link>/tag/3d-city-model/</link>
+    </image>
+    
+    <item>
+      <title>A toolkit for multi-scale mapping of the solar energy-generation potential of buildings in urban environments under uncertainty</title>
+      <link>/publication/peronato-toolkit-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-toolkit-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

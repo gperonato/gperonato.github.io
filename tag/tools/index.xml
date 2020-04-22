@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tools | Giuseppe Peronato</title>
+    <link>/tag/tools/</link>
+      <atom:link href="/tag/tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>tools</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 17:03:36 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>tools</title>
+      <link>/tag/tools/</link>
+    </image>
+    
+    <item>
+      <title>SolUR</title>
+      <link>/project/solur/</link>
+      <pubDate>Sun, 19 Apr 2020 17:03:36 +0200</pubDate>
+      <guid>/project/solur/</guid>
+      <description>&lt;p&gt;During my PhD thesis, I developed a solar mapping tool based on the following workflow:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creation of a vector 3D city model including buildings, vegetation and topography&lt;/li&gt;
+&lt;li&gt;Estimation of building energy-generation and retrofit potential using state-of-the-art models&lt;/li&gt;
+&lt;li&gt;Generation of multiple vegetation and weather scenarios&lt;/li&gt;
+&lt;li&gt;Calculation of a score representing the priority of
+intervention using pairwise comparisons&lt;/li&gt;
+&lt;li&gt;3D visualization at multiple spatial aggregation scales&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-images&#34; href=&#34;/project/solur/images/SolUR1.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/solur/images/SolUR1_hu4721bb70a7ae10e97009f98cdec3b1f7_381452_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;533&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-images&#34; href=&#34;/project/solur/images/SolUR2.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/solur/images/SolUR2_hu608a56e418736490f0fb23d2a3dee8d5_384829_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;533&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-images&#34; href=&#34;/project/solur/images/SolUR3.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/solur/images/SolUR3_hu75e9c695461f578aa076dbe1d157db7b_416098_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;533&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-images&#34; href=&#34;/project/solur/images/SolUR4.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/solur/images/SolUR4_hu6a3eb85dba142e72b46616a25038e524_436877_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;533&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-images&#34; href=&#34;/project/solur/images/SolUR5.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/solur/images/SolUR5_huf6a46a44fccaea34c5b06e0c717ce52b_475871_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;533&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-images&#34; href=&#34;/project/solur/images/SolUR6.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/solur/images/SolUR6_hu344a313317334518f8e4035a93a4d102_410579_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;533&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synby</title>
+      <link>/project/synby/</link>
+      <pubDate>Sun, 19 Apr 2020 17:02:06 +0200</pubDate>
+      <guid>/project/synby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GHCitySim</title>
+      <link>/project/ghcitysim/</link>
+      <pubDate>Wed, 19 Apr 2017 17:02:06 +0200</pubDate>
+      <guid>/project/ghcitysim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

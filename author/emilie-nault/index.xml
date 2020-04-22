@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emilie Nault | Giuseppe Peronato</title>
+    <link>/author/emilie-nault/</link>
+      <atom:link href="/author/emilie-nault/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emilie Nault</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Emilie Nault</title>
+      <link>/author/emilie-nault/</link>
+    </image>
+    
+    <item>
+      <title>Review and critical analysis of early-design phase evaluation metrics for the solar potential of neighborhood designs</title>
+      <link>/publication/nault-review-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/nault-review-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A parametric design-based methodology to visualize building performance at the neighborhood scale</title>
+      <link>/publication/peronato-parametric-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-parametric-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potentiel solaire et forme urbaine</title>
+      <link>/publication/nault-potentiel-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/nault-potentiel-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

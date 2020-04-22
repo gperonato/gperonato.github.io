@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | Giuseppe Peronato</title>
+    <link>/slides/</link>
+      <atom:link href="/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Apr 2020 12:47:15 +0200</lastBuildDate>
+    <item>
+      <title>SolUR</title>
+      <link>/slides/solur/</link>
+      <pubDate>Wed, 22 Apr 2020 12:47:15 +0200</pubDate>
+      <guid>/slides/solur/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;Title&lt;/h1&gt;
+&lt;p&gt;Author Name&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slide-2&#34;&gt;Slide 2&lt;/h2&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

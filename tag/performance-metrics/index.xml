@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance metrics | Giuseppe Peronato</title>
+    <link>/tag/performance-metrics/</link>
+      <atom:link href="/tag/performance-metrics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Performance metrics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Performance metrics</title>
+      <link>/tag/performance-metrics/</link>
+    </image>
+    
+    <item>
+      <title>Review and critical analysis of early-design phase evaluation metrics for the solar potential of neighborhood designs</title>
+      <link>/publication/nault-review-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/nault-review-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

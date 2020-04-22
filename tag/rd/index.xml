@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RD | Giuseppe Peronato</title>
+    <link>/tag/rd/</link>
+      <atom:link href="/tag/rd/index.xml" rel="self" type="application/rss+xml" />
+    <description>RD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 17:03:36 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>RD</title>
+      <link>/tag/rd/</link>
+    </image>
+    
+    <item>
+      <title>SolUR</title>
+      <link>/project/solur/</link>
+      <pubDate>Sun, 19 Apr 2020 17:03:36 +0200</pubDate>
+      <guid>/project/solur/</guid>
+      <description>&lt;p&gt;During my PhD thesis, I developed a solar mapping tool based on the following workflow:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creation of a vector 3D city model including buildings, vegetation and topography&lt;/li&gt;
+&lt;li&gt;Estimation of building energy-generation and retrofit potential using state-of-the-art models&lt;/li&gt;
+&lt;li&gt;Generation of multiple vegetation and weather scenarios&lt;/li&gt;
+&lt;li&gt;Calculation of a score representing the priority of
+intervention using pairwise comparisons&lt;/li&gt;
+&lt;li&gt;3D visualization at multiple spatial aggregation scales&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-images&#34; href=&#34;/project/solur/images/SolUR1.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/solur/images/SolUR1_hu4721bb70a7ae10e97009f98cdec3b1f7_381452_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;533&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-images&#34; href=&#34;/project/solur/images/SolUR2.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/solur/images/SolUR2_hu608a56e418736490f0fb23d2a3dee8d5_384829_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;533&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-images&#34; href=&#34;/project/solur/images/SolUR3.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/solur/images/SolUR3_hu75e9c695461f578aa076dbe1d157db7b_416098_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;533&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-images&#34; href=&#34;/project/solur/images/SolUR4.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/solur/images/SolUR4_hu6a3eb85dba142e72b46616a25038e524_436877_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;533&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-images&#34; href=&#34;/project/solur/images/SolUR5.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/solur/images/SolUR5_huf6a46a44fccaea34c5b06e0c717ce52b_475871_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;533&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-images&#34; href=&#34;/project/solur/images/SolUR6.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/solur/images/SolUR6_hu344a313317334518f8e4035a93a4d102_410579_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;533&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synby</title>
+      <link>/project/synby/</link>
+      <pubDate>Sun, 19 Apr 2020 17:02:06 +0200</pubDate>
+      <guid>/project/synby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The future of suburbs</title>
+      <link>/project/devenir-pavillonnaire/</link>
+      <pubDate>Thu, 19 Sep 2019 17:02:06 +0200</pubDate>
+      <guid>/project/devenir-pavillonnaire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless weather Station</title>
+      <link>/project/sensornetwork/</link>
+      <pubDate>Tue, 30 Jul 2019 17:02:06 +0200</pubDate>
+      <guid>/project/sensornetwork/</guid>
+      <description>&lt;p&gt;During my postdoc at Uppsala University, I developed a prototype of a weather station to be used in a sensor network for urban energy and confort studies. The station is based on the LoRaWAN protocol, which provides  high range and low power consumption. A LAMP solution provides the storage of the sensor data and real-time monitoring.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GHCitySim</title>
+      <link>/project/ghcitysim/</link>
+      <pubDate>Wed, 19 Apr 2017 17:02:06 +0200</pubDate>
+      <guid>/project/ghcitysim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Built density and building performance</title>
+      <link>/project/yverdon/</link>
+      <pubDate>Wed, 19 Mar 2014 17:03:36 +0200</pubDate>
+      <guid>/project/yverdon/</guid>
+      <description>&lt;p&gt;This project investigated the impact of early-design urban massing on built density and building performance indicators. Simulations were run on 768 possible design variations based on the master plan. Despite the difficult trade-offs between opposing goals (such as, for example, spatial Daylight Autonomy and Floor Area Ratio), the analysis suggested some optimal design solutions and relevant indications to planners and architects regarding the sensitivity of the performance indicators to the different design parameters.
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;/project/yverdon/slides/0.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/yverdon/slides/0_hua5fb5e5ecad1093ddb70fdfa20157316_294702_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;/project/yverdon/slides/1.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/yverdon/slides/1_huf6e2a0c0de500fb7bd4487b8a8f9b86a_94429_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;/project/yverdon/slides/3.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/yverdon/slides/3_hubff2c35661052d31252a5e2c13862df3_93174_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;/project/yverdon/slides/4.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/yverdon/slides/4_hubff2c35661052d31252a5e2c13862df3_90714_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Urban densification and building performance</title>
+      <link>/project/geneva/</link>
+      <pubDate>Wed, 19 Mar 2014 17:03:36 +0200</pubDate>
+      <guid>/project/geneva/</guid>
+      <description>&lt;p&gt;This project investigated the impact of soft-densification scenarios on built density and urban performance indicators by developing a parametric model based on a 3D cadastre. Two areas were analysed in central and suburban Geneva where current bylaws allow for roof-raising and suburban infilling interventions in order to incease built density and tackle housing shortage. The analysis highlighted the poor daylight access in high-density urban areas, as well as the limited contribution of roof-stacking to the densification processes.
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-1&#34; href=&#34;/project/geneva/1/densification_strategies.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/geneva/1/densification_strategies_hubff2c35661052d31252a5e2c13862df3_85100_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-2&#34; href=&#34;/project/geneva/2/potential.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/geneva/2/potential_hu6a6a39567e27edcde3f53e5608c2d500_126216_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-2&#34; href=&#34;/project/geneva/2/potential2.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/geneva/2/potential2_hucd7394fd9e14e46563b086e135e8ad11_139115_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-3&#34; href=&#34;/project/geneva/3/geneve_annrad2.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/geneva/3/geneve_annrad2_hu87e3507bb689ec7ec81f8d5734e41462_531995_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;649&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-3&#34; href=&#34;/project/geneva/3/geneve_da.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/geneva/3/geneve_da_hu3d03a01dcc18bc5be0e67db3d8d209a6_269765_0x300_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;625&#34; height=&#34;300&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

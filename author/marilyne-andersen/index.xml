@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marilyne Andersen | Giuseppe Peronato</title>
+    <link>/author/marilyne-andersen/</link>
+      <atom:link href="/author/marilyne-andersen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marilyne Andersen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Marilyne Andersen</title>
+      <link>/author/marilyne-andersen/</link>
+    </image>
+    
+    <item>
+      <title>3D model discretization in assessing urban solar potential: the effect of grid spacing on predicted solar irradiation</title>
+      <link>/publication/peronato-3-d-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-3-d-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A toolkit for multi-scale mapping of the solar energy-generation potential of buildings in urban environments under uncertainty</title>
+      <link>/publication/peronato-toolkit-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-toolkit-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the photovoltaic potential of flat roofs: insights from the analysis of optimised array arrangements</title>
+      <link>/publication/peronato-assessing-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-assessing-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACTIVE INTERFACES. From 3D geodata to BIPV yield estimation: towards an urban-scale simulation workflow</title>
+      <link>/publication/peronato-active-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-active-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating urban energy simulation in a parametric environment: a Grasshopper interface for CitySim</title>
+      <link>/publication/peronato-integrating-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-integrating-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustesse de l’évaluation du potentiel solaire de formes urbaines différenciées</title>
+      <link>/publication/peronato-robustesse-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-robustesse-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D-modeling of vegetation from LiDAR point clouds and assessment of its impact on façade solar irradiation</title>
+      <link>/publication/peronato-3-d-modeling-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-3-d-modeling-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity of calculated solar irradiation to the level of detail: insights from the simulation of four sample buildings in urban areas</title>
+      <link>/publication/peronato-sensitivity-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-sensitivity-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review and critical analysis of early-design phase evaluation metrics for the solar potential of neighborhood designs</title>
+      <link>/publication/nault-review-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/nault-review-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A parametric design-based methodology to visualize building performance at the neighborhood scale</title>
+      <link>/publication/peronato-parametric-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-parametric-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potentiel solaire et forme urbaine</title>
+      <link>/publication/nault-potentiel-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/nault-potentiel-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling of building surfaces towards an early assessment of BIPV potential in urban contexts</title>
+      <link>/publication/peronato-sampling-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-sampling-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
