@@ -627,17 +627,181 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>During my PhD thesis, I developed a solar mapping tool based on the following workflow:</p>
-<ul>
-<li>Creation of a vector 3D city model including buildings, vegetation and topography</li>
-<li>Estimation of building energy-generation and retrofit potential using state-of-the-art models</li>
-<li>Generation of multiple vegetation and weather scenarios</li>
-<li>Calculation of a score representing the priority of
-intervention using pairwise comparisons</li>
-<li>3D visualization at multiple spatial aggregation scales</li>
-</ul>
-<p>
-<a href="">
+      
+
+
+
+
+
+
+
+    
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+
+
+
+<style>
+#slide-window {
+    position: relative;
+    width: 700px;
+    height: 394px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+
+#slides-list {
+    width: 700px;
+    height: 394px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.slide {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 700px;
+    height: 394px;
+    background: #ccc;
+    text-align: center;
+    line-height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #fff;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+}
+
+.nav {
+    position: relative;
+    z-index: 9;
+    top: 45%;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.7;
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.nav:hover {
+    opacity: 1.0;
+}
+
+#left {
+    left: 3%;
+    float: left;
+}
+
+#right {
+    right: 3%;
+    float: right;
+}
+</style>
+
+
+<div id="slide-window">
+    <ol id="slides-list">
+                <li class="slide" style="background-image:url(/img/SolUR/SolUR1.jpg);"></li>
+                <li class="slide" style="background-image:url(/img/SolUR/SolUR2.jpg);"></li>
+                <li class="slide" style="background-image:url(/img/SolUR/SolUR3.jpg);"></li>
+                <li class="slide" style="background-image:url(/img/SolUR/SolUR4.jpg);"></li>
+                <li class="slide" style="background-image:url(/img/SolUR/SolUR5.jpg);"></li>
+                <li class="slide" style="background-image:url(/img/SolUR/SolUR6.jpg);"></li>
+    </ol>
+    <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
+    <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
+</div>
+
+<script>
+sliderJQuery = jQuery.noConflict();
+sliderJQuery(function( $ ) {
+    $.global = new Object();
+    $.global.total = 0;
+
+    $(document).ready(function () {
+        var slideWindowWidth = $('#slide-window').width();
+        var slideCount = $('#slides-list li').length;
+        var totalSlidesWidth = slideCount * slideWindowWidth;
+
+        $.global.item = 0;
+        $.global.total = slideCount;
+
+        $('.slide').css('width', slideWindowWidth + 'px');
+        $('#slides-list').css('width', totalSlidesWidth + 'px');
+
+        $('#left').click(function () {
+            resetAutoSlide();
+            performSlide('back');
+        });
+
+        $('#right').click(function () {
+            resetAutoSlide();
+            performSlide('forward');
+        });
+
+    });
+
+    function performSlide(direction) {
+        if (direction == 'back') {
+            var nextSlideId = $.global.item - 1;
+        }
+        if (direction == 'forward') {
+            var nextSlideId = $.global.item + 1;
+        }
+
+        if (nextSlideId == -1) {
+             
+            moveCss($.global.total - 1);
+        } else if (nextSlideId == $.global.total) {
+             
+            moveCss(0);
+        } else {
+             
+            moveCss(nextSlideId);
+        }
+    }
+
+    function moveCss(nextSlideId) {
+        var slideWindowWidth = $('#slide-window').width();
+        var margin = slideWindowWidth * nextSlideId;
+
+        $('#slides-list').css('transform', 'translate3d(-' + margin + 'px,0px,0px)');
+
+        $.global.item = nextSlideId;
+    }
+
+    
+      var autoSlide = parseInt("3000", 10);
+      var autoSlideInterval;
+      function resetAutoSlide(){
+        if(autoSlide) {
+          if(autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+          }
+          autoSlideInterval = setInterval(function(){
+            performSlide('forward');
+          }, autoSlide)
+        }
+      }
+      resetAutoSlide();
+});
+</script>
+<h1 id="heading"></h1>
+<p>During my PhD thesis, I developed a solar 3D mapping tool called SolUR. Multiple modeling scenarios are used to provide a more robust assessment of the photovoltaic potential. Scenarios included weather variability, attitudes to the visual appearance of the solar installation, and vegetation opacity. The uncertainty due to vegetation was treated using pairwise comparisons providing a robust ranking of the spatial locations. Solar simulations were conducted in a semi-automated workflow based on Grasshopper and Python scripts and coupling state-of-the art simulation tools such as Radiance/Daysim, CitySim and PVLIB.</p>
+
 
 
 
@@ -660,8 +824,8 @@ intervention using pairwise comparisons</li>
     
     
     
-  <a data-fancybox="gallery-images" href="/project/solur/images/SolUR1.jpg" >
-  <img data-src="/project/solur/images/SolUR1_hu4721bb70a7ae10e97009f98cdec3b1f7_381452_0x300_resize_q90_lanczos.jpg" class="lazyload" alt="" width="533" height="300">
+  <a data-fancybox="gallery-scenarios" href="/project/solur/scenarios/1_weather.jpg" >
+  <img data-src="/project/solur/scenarios/1_weather_hu24bf93c5cb2a586444d2ab073ca78cea_53151_0x300_resize_q90_lanczos.jpg" class="lazyload" alt="" width="1047" height="300">
   </a>
   
     
@@ -669,8 +833,8 @@ intervention using pairwise comparisons</li>
     
     
     
-  <a data-fancybox="gallery-images" href="/project/solur/images/SolUR2.jpg" >
-  <img data-src="/project/solur/images/SolUR2_hu608a56e418736490f0fb23d2a3dee8d5_384829_0x300_resize_q90_lanczos.jpg" class="lazyload" alt="" width="533" height="300">
+  <a data-fancybox="gallery-scenarios" href="/project/solur/scenarios/2_regularity.jpg" >
+  <img data-src="/project/solur/scenarios/2_regularity_hua05d8186cf410b5152ca15486b8d22d7_56885_0x300_resize_q90_lanczos.jpg" class="lazyload" alt="" width="1048" height="300">
   </a>
   
     
@@ -678,40 +842,49 @@ intervention using pairwise comparisons</li>
     
     
     
-  <a data-fancybox="gallery-images" href="/project/solur/images/SolUR3.jpg" >
-  <img data-src="/project/solur/images/SolUR3_hu75e9c695461f578aa076dbe1d157db7b_416098_0x300_resize_q90_lanczos.jpg" class="lazyload" alt="" width="533" height="300">
-  </a>
-  
-    
-    
-    
-    
-    
-  <a data-fancybox="gallery-images" href="/project/solur/images/SolUR4.jpg" >
-  <img data-src="/project/solur/images/SolUR4_hu6a3eb85dba142e72b46616a25038e524_436877_0x300_resize_q90_lanczos.jpg" class="lazyload" alt="" width="533" height="300">
-  </a>
-  
-    
-    
-    
-    
-    
-  <a data-fancybox="gallery-images" href="/project/solur/images/SolUR5.jpg" >
-  <img data-src="/project/solur/images/SolUR5_huf6a46a44fccaea34c5b06e0c717ce52b_475871_0x300_resize_q90_lanczos.jpg" class="lazyload" alt="" width="533" height="300">
-  </a>
-  
-    
-    
-    
-    
-    
-  <a data-fancybox="gallery-images" href="/project/solur/images/SolUR6.jpg" >
-  <img data-src="/project/solur/images/SolUR6_hu344a313317334518f8e4035a93a4d102_410579_0x300_resize_q90_lanczos.jpg" class="lazyload" alt="" width="533" height="300">
+  <a data-fancybox="gallery-scenarios" href="/project/solur/scenarios/3_vegetation.jpg" >
+  <img data-src="/project/solur/scenarios/3_vegetation_hucf732b537916b1bd687bbfd42805b7fa_65245_0x300_resize_q90_lanczos.jpg" class="lazyload" alt="" width="1012" height="300">
   </a>
   
 
   
-</div></a></p>
+</div>
+<h1 id="heading-1"></h1>
+<p>SolUR included a visualization concept that was implemented in Google Earth using KML files generated on-the-fly by a Python interface. The user can then interact with the 3D mapping tool cand compare the potential at different spatial aggregation scales.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="figure-visualization-concept">
+
+
+  <a data-fancybox="" href="/project/solur/images/visualization.jpg" data-caption="Visualization concept">
+
+
+  <img src="/project/solur/images/visualization.jpg" alt=""  >
+</a>
+
+
+  
+  
+  <figcaption>
+    Visualization concept
+  </figcaption>
+
+
+</figure>
+
 
     </div>
 
