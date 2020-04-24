@@ -324,9 +324,11 @@ sliderJQuery(function( $ ) {
   
 &lt;/div&gt;
 &lt;p&gt;Subsequent studies refined the 3D modeling with alpha shapes reconstruction, also implemented using the CGAL Library. 
-&lt;a href=&#34;/project/vegetation/alphashape.exe&#34;&gt;Here&amp;rsquo;s the Windows executable&lt;/a&gt; that can be used with a &lt;code&gt;*.xyz&lt;/code&gt; input file in the command line to produce a 3D mesh of trees:&lt;/p&gt;
+&lt;a href=&#34;https://github.com/gperonato/TreeD/releases/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&amp;rsquo;s the Windows executable&lt;/a&gt; that can be used with a &lt;code&gt;*.xyz&lt;/code&gt; input file in the command line to produce a 3D mesh of trees:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;alphashape.exe alpha infile.xyz &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;where &lt;code&gt;alpha&lt;/code&gt; is the alpha parameter (e.g. 0.75) and &lt;code&gt;infile.xyz&lt;/code&gt; is the input file.&lt;/p&gt;
+&lt;p&gt;This 
+&lt;a href=&#34;https://github.com/gperonato/TreeD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository&lt;/a&gt; contains some utilities (MATLAB and C++) for the 3D reconstruction of vegetation from point clouds.&lt;/p&gt;
 </description>
     </item>
     
