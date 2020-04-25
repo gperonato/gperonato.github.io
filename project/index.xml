@@ -821,6 +821,7 @@ sliderJQuery(function( $ ) {
 
 &lt;div id=&#34;slide-window&#34;&gt;
     &lt;ol id=&#34;slides-list&#34;&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/Geneva/.DS_Store);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/Geneva/geneve_1.jpg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/Geneva/geneve_2.jpg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/Geneva/geneve_3.jpg);&#34;&gt;&lt;/li&gt;

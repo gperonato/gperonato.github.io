@@ -941,6 +941,7 @@ sliderJQuery(function( $ ) {
 
 &lt;div id=&#34;slide-window&#34;&gt;
     &lt;ol id=&#34;slides-list&#34;&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/Geneva/.DS_Store);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/Geneva/geneve_1.jpg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/Geneva/geneve_2.jpg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/Geneva/geneve_3.jpg);&#34;&gt;&lt;/li&gt;
@@ -1186,6 +1187,14 @@ Replaced by a new car bridge in the 70s, the sawn-off bridge is still a strong l
     </item>
     
     <item>
+      <title>La dimensione dell&#39;ombra</title>
+      <link>/publication/peronato-dimensione-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-dimensione-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Paintings</title>
       <link>/project/paintings/</link>
       <pubDate>Mon, 19 Apr 2010 17:03:36 +0200</pubDate>
@@ -1249,6 +1258,14 @@ Replaced by a new car bridge in the 70s, the sawn-off bridge is still a strong l
   
 &lt;/div&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>L&#39;arte della copia. Da Platone alla Pop Art.</title>
+      <link>/publication/peronato-arte-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-arte-2008/</guid>
+      <description></description>
     </item>
     
   </channel>
