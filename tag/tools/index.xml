@@ -279,18 +279,18 @@ sliderJQuery(function( $ ) {
     </item>
     
     <item>
-      <title>getHorizon</title>
-      <link>/project/gethorizon/</link>
-      <pubDate>Sun, 19 Apr 2020 17:02:06 +0200</pubDate>
-      <guid>/project/gethorizon/</guid>
+      <title>Synby</title>
+      <link>/project/synby/</link>
+      <pubDate>Wed, 19 Jun 2019 17:02:06 +0200</pubDate>
+      <guid>/project/synby/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Synby</title>
-      <link>/project/synby/</link>
-      <pubDate>Sun, 19 Apr 2020 17:02:06 +0200</pubDate>
-      <guid>/project/synby/</guid>
+      <title>getHorizon</title>
+      <link>/project/gethorizon/</link>
+      <pubDate>Wed, 19 Apr 2017 17:02:06 +0200</pubDate>
+      <guid>/project/gethorizon/</guid>
       <description></description>
     </item>
     

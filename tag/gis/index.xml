@@ -279,9 +279,17 @@ sliderJQuery(function( $ ) {
     </item>
     
     <item>
+      <title>Synby</title>
+      <link>/project/synby/</link>
+      <pubDate>Wed, 19 Jun 2019 17:02:06 +0200</pubDate>
+      <guid>/project/synby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>3D modeling of vegetation</title>
       <link>/project/vegetation/</link>
-      <pubDate>Sun, 19 Apr 2020 17:02:06 +0200</pubDate>
+      <pubDate>Fri, 19 Apr 2019 17:02:06 +0200</pubDate>
       <guid>/project/vegetation/</guid>
       <description>&lt;p&gt;This research started  with need for an accurate 3D modeling of vegetation for solar irradiation. A preliminary study showed that the effect of vegetation on façade solar irradiation is significant.&lt;/p&gt;
 
@@ -335,16 +343,8 @@ sliderJQuery(function( $ ) {
     <item>
       <title>getHorizon</title>
       <link>/project/gethorizon/</link>
-      <pubDate>Sun, 19 Apr 2020 17:02:06 +0200</pubDate>
+      <pubDate>Wed, 19 Apr 2017 17:02:06 +0200</pubDate>
       <guid>/project/gethorizon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Synby</title>
-      <link>/project/synby/</link>
-      <pubDate>Sun, 19 Apr 2020 17:02:06 +0200</pubDate>
-      <guid>/project/synby/</guid>
       <description></description>
     </item>
     

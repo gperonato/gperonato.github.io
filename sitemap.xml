@@ -3,52 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tag/art/</loc>
-    <lastmod>2020-04-19T17:03:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/pd/</loc>
-    <lastmod>2020-04-19T17:03:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/copywriting/</loc>
-    <lastmod>2020-04-19T17:03:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/design/</loc>
-    <lastmod>2020-04-19T17:03:36+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/gis/</loc>
     <lastmod>2020-04-19T17:03:36+02:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-04-19T17:03:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/graphics/</loc>
-    <lastmod>2020-04-19T17:03:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/oche/</loc>
-    <lastmod>2020-04-19T17:03:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/linocuts/</loc>
-    <lastmod>2020-04-19T17:03:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/music/</loc>
     <lastmod>2020-04-19T17:03:36+02:00</lastmod>
   </url>
   
@@ -83,27 +43,12 @@
   </url>
   
   <url>
-    <loc>/project/vegetation/</loc>
-    <lastmod>2020-04-19T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/gethorizon/</loc>
-    <lastmod>2020-04-19T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/synby/</loc>
-    <lastmod>2020-04-19T17:02:06+02:00</lastmod>
+    <loc>/project/devenir-pavillonnaire/</loc>
+    <lastmod>2019-09-19T17:02:06+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/web/</loc>
-    <lastmod>2020-04-19T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/devenir-pavillonnaire/</loc>
     <lastmod>2019-09-19T17:02:06+02:00</lastmod>
   </url>
   
@@ -168,6 +113,16 @@
   </url>
   
   <url>
+    <loc>/project/synby/</loc>
+    <lastmod>2019-06-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/vegetation/</loc>
+    <lastmod>2019-04-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/7/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -218,6 +173,26 @@
   </url>
   
   <url>
+    <loc>/tag/design/</loc>
+    <lastmod>2018-04-19T17:03:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/graphics/</loc>
+    <lastmod>2018-04-19T17:03:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/oche/</loc>
+    <lastmod>2018-04-19T17:03:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/music/</loc>
+    <lastmod>2018-04-19T17:03:36+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/peronato-assessing-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -235,6 +210,11 @@
   <url>
     <loc>/author/sylvain-vitali/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/gethorizon/</loc>
+    <lastmod>2017-04-19T17:02:06+02:00</lastmod>
   </url>
   
   <url>
@@ -323,6 +303,16 @@
   </url>
   
   <url>
+    <loc>/project/pd/</loc>
+    <lastmod>2015-04-19T17:03:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/copywriting/</loc>
+    <lastmod>2015-04-19T17:03:36+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/peronato-parametric-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -385,6 +375,16 @@
   <url>
     <loc>/publication/peronato-dimensione-2011/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/art/</loc>
+    <lastmod>2010-04-19T17:03:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/linocuts/</loc>
+    <lastmod>2010-04-19T17:03:36+02:00</lastmod>
   </url>
   
   <url>
