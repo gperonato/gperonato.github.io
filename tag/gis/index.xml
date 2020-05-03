@@ -190,7 +190,8 @@ sliderJQuery(function( $ ) {
 });
 &lt;/script&gt;
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-&lt;p&gt;During my PhD thesis, I developed a solar 3D mapping tool called SolUR. Multiple modeling scenarios are used to provide a more robust assessment of the photovoltaic potential. Scenarios included weather variability, attitudes to the visual appearance of the solar installation, and vegetation opacity. The uncertainty due to vegetation was treated using pairwise comparisons providing a robust ranking of the spatial locations. Solar simulations were conducted in a semi-automated workflow based on Grasshopper and Python scripts and coupling state-of-the art simulation tools such as Radiance/Daysim, CitySim and PVLIB.&lt;/p&gt;
+&lt;p&gt;In my 
+&lt;a href=&#34;/publication/peronato-urban-2019/&#34;&gt;PhD thesis&lt;/a&gt;, I developed a solar 3D mapping tool called SolUR. Multiple modeling scenarios are used to provide a more robust assessment of the photovoltaic potential. Scenarios included weather variability, attitudes to the visual appearance of the solar installation, and vegetation opacity. The uncertainty due to vegetation was treated using pairwise comparisons providing a robust ranking of the spatial locations. Solar simulations were conducted in a semi-automated workflow based on Grasshopper and Python scripts and coupling state-of-the art simulation tools such as Radiance/Daysim, CitySim and PVLIB.&lt;/p&gt;
 
 
 

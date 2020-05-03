@@ -190,7 +190,8 @@ sliderJQuery(function( $ ) {
 });
 &lt;/script&gt;
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-&lt;p&gt;During my PhD thesis, I developed a solar 3D mapping tool called SolUR. Multiple modeling scenarios are used to provide a more robust assessment of the photovoltaic potential. Scenarios included weather variability, attitudes to the visual appearance of the solar installation, and vegetation opacity. The uncertainty due to vegetation was treated using pairwise comparisons providing a robust ranking of the spatial locations. Solar simulations were conducted in a semi-automated workflow based on Grasshopper and Python scripts and coupling state-of-the art simulation tools such as Radiance/Daysim, CitySim and PVLIB.&lt;/p&gt;
+&lt;p&gt;In my 
+&lt;a href=&#34;/publication/peronato-urban-2019/&#34;&gt;PhD thesis&lt;/a&gt;, I developed a solar 3D mapping tool called SolUR. Multiple modeling scenarios are used to provide a more robust assessment of the photovoltaic potential. Scenarios included weather variability, attitudes to the visual appearance of the solar installation, and vegetation opacity. The uncertainty due to vegetation was treated using pairwise comparisons providing a robust ranking of the spatial locations. Solar simulations were conducted in a semi-automated workflow based on Grasshopper and Python scripts and coupling state-of-the art simulation tools such as Radiance/Daysim, CitySim and PVLIB.&lt;/p&gt;
 
 
 
@@ -661,7 +662,8 @@ sliderJQuery(function( $ ) {
       <link>/project/yverdon/</link>
       <pubDate>Wed, 19 Mar 2014 17:03:36 +0200</pubDate>
       <guid>/project/yverdon/</guid>
-      <description>&lt;p&gt;This project investigated the impact of early-design urban massing on built density and building performance indicators. Simulations were run on 768 possible design variations based on the master plan. Despite the difficult trade-offs between opposing goals (such as, for example, spatial Daylight Autonomy and Floor Area Ratio), the analysis suggested some optimal design solutions and relevant indications to planners and architects regarding the sensitivity of the performance indicators to the different design parameters.
+      <description>&lt;p&gt;This project, part of my 
+&lt;a href=&#34;/publication/peronato-built-2014/&#34;&gt;master thesis&lt;/a&gt;, investigated the impact of early-design urban massing on built density and building performance indicators. Simulations were run on 768 possible design variations based on the master plan. Despite the difficult trade-offs between opposing goals (such as, for example, spatial Daylight Autonomy and Floor Area Ratio), the analysis suggested some optimal design solutions and relevant indications to planners and architects regarding the sensitivity of the performance indicators to the different design parameters.
 
 
 
@@ -727,7 +729,8 @@ sliderJQuery(function( $ ) {
       <link>/project/geneva/</link>
       <pubDate>Wed, 19 Mar 2014 17:03:36 +0200</pubDate>
       <guid>/project/geneva/</guid>
-      <description>&lt;p&gt;This project investigated the impact of soft-densification scenarios on built density and urban performance indicators by developing a parametric model based on a 3D cadastre. Two areas were analysed in central and suburban Geneva where current bylaws allow for roof-raising and suburban infilling interventions in order to incease built density and tackle housing shortage. The analysis highlighted the poor daylight access in high-density urban areas, as well as the limited contribution of roof-stacking to the densification processes.&lt;/p&gt;
+      <description>&lt;p&gt;This project, part of my 
+&lt;a href=&#34;/publication/peronato-built-2014/&#34;&gt;master thesis&lt;/a&gt;, investigated the impact of soft-densification scenarios on built density and urban performance indicators by developing a parametric model based on a 3D cadastre. Two areas were analysed in central and suburban Geneva where current bylaws allow for roof-raising and suburban infilling interventions in order to incease built density and tackle housing shortage. The analysis highlighted the poor daylight access in high-density urban areas, as well as the limited contribution of roof-stacking to the densification processes.&lt;/p&gt;
 
 
 
