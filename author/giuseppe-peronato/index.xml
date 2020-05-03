@@ -5,12 +5,20 @@
     <link>/author/giuseppe-peronato/</link>
       <atom:link href="/author/giuseppe-peronato/index.xml" rel="self" type="application/rss+xml" />
     <description>Giuseppe Peronato</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
       <title>Giuseppe Peronato</title>
       <link>/author/giuseppe-peronato/</link>
     </image>
+    
+    <item>
+      <title>Urban Building Energy Modeling: State of the Art and Future Prospects</title>
+      <link>/publication/johari-urban-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/johari-urban-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Energy performance and occupancy-based analysis of visual and thermal comfort for transmittance level and layout variations of semi-transparent photovoltaics</title>

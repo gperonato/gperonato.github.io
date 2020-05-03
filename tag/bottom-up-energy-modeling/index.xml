@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bottom-up energy modeling | Giuseppe Peronato</title>
+    <link>/tag/bottom-up-energy-modeling/</link>
+      <atom:link href="/tag/bottom-up-energy-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>bottom-up energy modeling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
+      <title>bottom-up energy modeling</title>
+      <link>/tag/bottom-up-energy-modeling/</link>
+    </image>
+    
+    <item>
+      <title>Urban Building Energy Modeling: State of the Art and Future Prospects</title>
+      <link>/publication/johari-urban-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/johari-urban-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
