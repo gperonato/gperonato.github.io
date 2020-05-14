@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Giuseppe Peronato</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 17:03:36 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
       <title>Giuseppe Peronato</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Urban Building Energy Modeling: State of the Art and Future Prospects</title>
+      <link>/publication/johari-urban-2020/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/johari-urban-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SolUR</title>
@@ -277,14 +285,6 @@ sliderJQuery(function( $ ) {
 &lt;/figure&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title>Urban Building Energy Modeling: State of the Art and Future Prospects</title>
-      <link>/publication/johari-urban-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/johari-urban-2020/</guid>
-      <description></description>
     </item>
     
     <item>
