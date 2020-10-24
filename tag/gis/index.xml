@@ -104,12 +104,12 @@
 
 &lt;div id=&#34;slide-window&#34;&gt;
     &lt;ol id=&#34;slides-list&#34;&gt;
-                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/SolUR/SolUR1.jpg);&#34;&gt;&lt;/li&gt;
-                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/SolUR/SolUR2.jpg);&#34;&gt;&lt;/li&gt;
-                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/SolUR/SolUR3.jpg);&#34;&gt;&lt;/li&gt;
-                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/SolUR/SolUR4.jpg);&#34;&gt;&lt;/li&gt;
-                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/SolUR/SolUR5.jpg);&#34;&gt;&lt;/li&gt;
-                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/SolUR/SolUR6.jpg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/media/SolUR/SolUR1.jpg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/media/SolUR/SolUR2.jpg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/media/SolUR/SolUR3.jpg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/media/SolUR/SolUR4.jpg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/media/SolUR/SolUR5.jpg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/media/SolUR/SolUR6.jpg);&#34;&gt;&lt;/li&gt;
     &lt;/ol&gt;
     &lt;span class=&#34;nav fa fa-chevron-left fa-3x&#34; id=&#34;left&#34;&gt;&lt;/span&gt;
     &lt;span class=&#34;nav fa fa-chevron-right fa-3x&#34; id=&#34;right&#34;&gt;&lt;/span&gt;
