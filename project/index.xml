@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 17:03:36 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 17:03:36 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -190,8 +190,7 @@ sliderJQuery(function( $ ) {
 });
 &lt;/script&gt;
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-&lt;p&gt;In my 
-&lt;a href=&#34;/publication/peronato-urban-2019/&#34;&gt;PhD thesis&lt;/a&gt;, I developed a solar 3D mapping tool called SolUR. Multiple modeling scenarios are used to provide a more robust assessment of the photovoltaic potential. Scenarios included weather variability, attitudes to the visual appearance of the solar installation, and vegetation opacity. The uncertainty due to vegetation was treated using pairwise comparisons providing a robust ranking of the spatial locations. Solar simulations were conducted in a semi-automated workflow based on Grasshopper and Python scripts and coupling state-of-the art simulation tools such as Radiance/Daysim, CitySim and PVLIB.&lt;/p&gt;
+&lt;p&gt;In my &lt;a href=&#34;/publication/peronato-urban-2019/&#34;&gt;PhD thesis&lt;/a&gt;, I developed a solar 3D mapping tool called SolUR. Multiple modeling scenarios are used to provide a more robust assessment of the photovoltaic potential. Scenarios included weather variability, attitudes to the visual appearance of the solar installation, and vegetation opacity. The uncertainty due to vegetation was treated using pairwise comparisons providing a robust ranking of the spatial locations. Solar simulations were conducted in a semi-automated workflow based on Grasshopper and Python scripts and coupling state-of-the art simulation tools such as Radiance/Daysim, CitySim and PVLIB.&lt;/p&gt;
 
 
 
@@ -257,6 +256,9 @@ sliderJQuery(function( $ ) {
 
 
 
+
+
+
 &lt;figure id=&#34;figure-visualization-concept&#34;&gt;
 
 
@@ -294,6 +296,14 @@ sliderJQuery(function( $ ) {
       <guid>/project/sensornetwork/</guid>
       <description>&lt;p&gt;During my postdoc at Uppsala University, I developed a prototype of a weather station to be used in a sensor network for urban energy and confort studies. The station is based on the LoRaWAN protocol, which provides  high range and low power consumption. A LAMP solution provides the storage of the sensor data and real-time monitoring.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>DESsim</title>
+      <link>/project/dessim/</link>
+      <pubDate>Wed, 19 Jun 2019 17:02:06 +0200</pubDate>
+      <guid>/project/dessim/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -349,12 +359,10 @@ sliderJQuery(function( $ ) {
 
   
 &lt;/div&gt;
-&lt;p&gt;Subsequent studies refined the 3D modeling with alpha shapes reconstruction, also implemented using the CGAL Library. 
-&lt;a href=&#34;https://github.com/gperonato/TreeD/releases/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&amp;rsquo;s the Windows executable&lt;/a&gt; that can be used with a &lt;code&gt;*.xyz&lt;/code&gt; input file in the command line to produce a 3D mesh of trees:&lt;/p&gt;
+&lt;p&gt;Subsequent studies refined the 3D modeling with alpha shapes reconstruction, also implemented using the CGAL Library. &lt;a href=&#34;https://github.com/gperonato/TreeD/releases/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&amp;rsquo;s the Windows executable&lt;/a&gt; that can be used with a &lt;code&gt;*.xyz&lt;/code&gt; input file in the command line to produce a 3D mesh of trees:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;alphashape.exe alpha infile.xyz &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;where &lt;code&gt;alpha&lt;/code&gt; is the alpha parameter (e.g. 0.75) and &lt;code&gt;infile.xyz&lt;/code&gt; is the input file.&lt;/p&gt;
-&lt;p&gt;This 
-&lt;a href=&#34;https://github.com/gperonato/TreeD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository&lt;/a&gt; contains some utilities (MATLAB and C++) for the 3D reconstruction of vegetation from point clouds.&lt;/p&gt;
+&lt;p&gt;This &lt;a href=&#34;https://github.com/gperonato/TreeD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository&lt;/a&gt; contains some utilities (MATLAB and C++) for the 3D reconstruction of vegetation from point clouds.&lt;/p&gt;
 </description>
     </item>
     
@@ -542,8 +550,7 @@ sliderJQuery(function( $ ) {
       <link>/project/yverdon/</link>
       <pubDate>Wed, 19 Mar 2014 17:03:36 +0200</pubDate>
       <guid>/project/yverdon/</guid>
-      <description>&lt;p&gt;This project, part of my 
-&lt;a href=&#34;/publication/peronato-built-2014/&#34;&gt;master thesis&lt;/a&gt;, investigated the impact of early-design urban massing on built density and building performance indicators. Simulations were run on 768 possible design variations based on the master plan. Despite the difficult trade-offs between opposing goals (such as, for example, spatial Daylight Autonomy and Floor Area Ratio), the analysis suggested some optimal design solutions and relevant indications to planners and architects regarding the sensitivity of the performance indicators to the different design parameters.
+      <description>&lt;p&gt;This project, part of my &lt;a href=&#34;/publication/peronato-built-2014/&#34;&gt;master thesis&lt;/a&gt;, investigated the impact of early-design urban massing on built density and building performance indicators. Simulations were run on 768 possible design variations based on the master plan. Despite the difficult trade-offs between opposing goals (such as, for example, spatial Daylight Autonomy and Floor Area Ratio), the analysis suggested some optimal design solutions and relevant indications to planners and architects regarding the sensitivity of the performance indicators to the different design parameters.
 
 
 
@@ -609,8 +616,7 @@ sliderJQuery(function( $ ) {
       <link>/project/geneva/</link>
       <pubDate>Wed, 19 Mar 2014 17:03:36 +0200</pubDate>
       <guid>/project/geneva/</guid>
-      <description>&lt;p&gt;This project, part of my 
-&lt;a href=&#34;/publication/peronato-built-2014/&#34;&gt;master thesis&lt;/a&gt;, investigated the impact of soft-densification scenarios on built density and urban performance indicators by developing a parametric model based on a 3D cadastre. Two areas were analysed in central and suburban Geneva where current bylaws allow for roof-raising and suburban infilling interventions in order to incease built density and tackle housing shortage. The analysis highlighted the poor daylight access in high-density urban areas, as well as the limited contribution of roof-stacking to the densification processes.&lt;/p&gt;
+      <description>&lt;p&gt;This project, part of my &lt;a href=&#34;/publication/peronato-built-2014/&#34;&gt;master thesis&lt;/a&gt;, investigated the impact of soft-densification scenarios on built density and urban performance indicators by developing a parametric model based on a 3D cadastre. Two areas were analysed in central and suburban Geneva where current bylaws allow for roof-raising and suburban infilling interventions in order to incease built density and tackle housing shortage. The analysis highlighted the poor daylight access in high-density urban areas, as well as the limited contribution of roof-stacking to the densification processes.&lt;/p&gt;
 
 
 

@@ -5,7 +5,7 @@
     <link>/tag/tools/</link>
       <atom:link href="/tag/tools/index.xml" rel="self" type="application/rss+xml" />
     <description>tools</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 17:03:36 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 17:03:36 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
       <title>tools</title>
@@ -190,8 +190,7 @@ sliderJQuery(function( $ ) {
 });
 &lt;/script&gt;
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-&lt;p&gt;In my 
-&lt;a href=&#34;/publication/peronato-urban-2019/&#34;&gt;PhD thesis&lt;/a&gt;, I developed a solar 3D mapping tool called SolUR. Multiple modeling scenarios are used to provide a more robust assessment of the photovoltaic potential. Scenarios included weather variability, attitudes to the visual appearance of the solar installation, and vegetation opacity. The uncertainty due to vegetation was treated using pairwise comparisons providing a robust ranking of the spatial locations. Solar simulations were conducted in a semi-automated workflow based on Grasshopper and Python scripts and coupling state-of-the art simulation tools such as Radiance/Daysim, CitySim and PVLIB.&lt;/p&gt;
+&lt;p&gt;In my &lt;a href=&#34;/publication/peronato-urban-2019/&#34;&gt;PhD thesis&lt;/a&gt;, I developed a solar 3D mapping tool called SolUR. Multiple modeling scenarios are used to provide a more robust assessment of the photovoltaic potential. Scenarios included weather variability, attitudes to the visual appearance of the solar installation, and vegetation opacity. The uncertainty due to vegetation was treated using pairwise comparisons providing a robust ranking of the spatial locations. Solar simulations were conducted in a semi-automated workflow based on Grasshopper and Python scripts and coupling state-of-the art simulation tools such as Radiance/Daysim, CitySim and PVLIB.&lt;/p&gt;
 
 
 
@@ -257,6 +256,9 @@ sliderJQuery(function( $ ) {
 
 
 
+
+
+
 &lt;figure id=&#34;figure-visualization-concept&#34;&gt;
 
 
@@ -277,6 +279,14 @@ sliderJQuery(function( $ ) {
 &lt;/figure&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>DESsim</title>
+      <link>/project/dessim/</link>
+      <pubDate>Wed, 19 Jun 2019 17:02:06 +0200</pubDate>
+      <guid>/project/dessim/</guid>
+      <description></description>
     </item>
     
     <item>
