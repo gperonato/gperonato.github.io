@@ -3,12 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pouchain-flexible-2020/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/felix-pouchain/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/giuseppe-peronato/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/guillaume-meunier/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,32 +73,12 @@
   </url>
   
   <url>
-    <loc>/author/giuseppe-peronato/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/joakin-widen/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/paria-sadeghian/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -130,11 +150,6 @@
   <url>
     <loc>/tag/web/</loc>
     <lastmod>2019-09-19T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

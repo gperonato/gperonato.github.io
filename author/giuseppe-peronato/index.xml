@@ -5,12 +5,25 @@
     <link>/author/giuseppe-peronato/</link>
       <atom:link href="/author/giuseppe-peronato/index.xml" rel="self" type="application/rss+xml" />
     <description>Giuseppe Peronato</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
+      <url>/author/giuseppe-peronato/avatar_hu756ae419dca872ecfcac293f58082c63_276392_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Giuseppe Peronato</title>
       <link>/author/giuseppe-peronato/</link>
     </image>
+    
+  </channel>
+</rss>
+
+    </image>
+    
+    <item>
+      <title>A Flexible GIS-based Computational Framework for the Early Design of District Energy Networks</title>
+      <link>/publication/pouchain-flexible-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pouchain-flexible-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Urban Building Energy Modeling: State of the Art and Future Prospects</title>
