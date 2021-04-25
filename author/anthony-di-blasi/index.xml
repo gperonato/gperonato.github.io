@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anthony Di Blasi | Giuseppe Peronato</title>
+    <link>/author/anthony-di-blasi/</link>
+      <atom:link href="/author/anthony-di-blasi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anthony Di Blasi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
+      <title>Anthony Di Blasi</title>
+      <link>/author/anthony-di-blasi/</link>
+    </image>
+    
+    <item>
+      <title>Designing and assessing solar energy neighborhoods from visual impact</title>
+      <link>/publication/florio-designing-2021/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/florio-designing-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

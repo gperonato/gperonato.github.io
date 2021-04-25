@@ -3,8 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.t.d.-perera/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anthony-di-blasi/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/bipv/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/florio-designing-2021/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-planning/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-hub/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/giuseppe-peronato/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jerome-kampf/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kin-ho-poon/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/load-match/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pietro-florio/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/solar-energy-in-cities/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/visual-impact/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,11 +109,6 @@
   
   <url>
     <loc>/tag/rd/</loc>
-    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-03-08T17:02:06+02:00</lastmod>
   </url>
   
@@ -48,38 +133,13 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/felix-pouchain/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/giuseppe-peronato/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/guillaume-meunier/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -314,11 +374,6 @@
   
   <url>
     <loc>/publication/peronato-integrating-2017/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jerome-kampf/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
