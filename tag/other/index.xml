@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>other | Giuseppe Peronato</title>
+    <link>/tag/other/</link>
+      <atom:link href="/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 17:02:06 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
+      <title>other</title>
+      <link>/tag/other/</link>
+    </image>
+    
+    <item>
+      <title>Design solutions to Urban Heat Island</title>
+      <link>/project/uhi-elioth/</link>
+      <pubDate>Mon, 08 Mar 2021 17:02:06 +0200</pubDate>
+      <guid>/project/uhi-elioth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends and challenges of the post-carbon city</title>
+      <link>/project/post-carbon-city/</link>
+      <pubDate>Mon, 08 Mar 2021 17:02:06 +0200</pubDate>
+      <guid>/project/post-carbon-city/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

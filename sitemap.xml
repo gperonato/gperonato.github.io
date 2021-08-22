@@ -98,7 +98,42 @@
   </url>
   
   <url>
+    <loc>/project/uhi-heidinews/</loc>
+    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/uhi-elioth/</loc>
+    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/mycookprint/</loc>
+    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/other/</loc>
+    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/outreach/</loc>
+    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/outreach/</loc>
+    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/press/</loc>
     <lastmod>2021-03-08T17:02:06+02:00</lastmod>
   </url>
   
@@ -114,6 +149,11 @@
   
   <url>
     <loc>/tag/tools/</loc>
+    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/post-carbon-city/</loc>
     <lastmod>2021-03-08T17:02:06+02:00</lastmod>
   </url>
   
@@ -530,10 +570,6 @@
   <url>
     <loc>/publication/peronato-arte-2008/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
   </url>
   
   <url>
