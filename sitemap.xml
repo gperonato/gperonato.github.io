@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/peronato-machine-2021/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/district-heating-network/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/giuseppe-peronato/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jerome-h.-kampf/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/land-use-maps/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roberto-boghetti/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +79,6 @@
   
   <url>
     <loc>/author/anthony-di-blasi/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,16 +103,6 @@
   </url>
   
   <url>
-    <loc>/author/giuseppe-peronato/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/jerome-kampf/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url>
@@ -73,22 +123,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/solar-energy-in-cities/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,12 +203,12 @@
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
+    <loc>/publication/pouchain-flexible-2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/pouchain-flexible-2020/</loc>
+    <loc>/tag/district-heating-and-cooling-network/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
