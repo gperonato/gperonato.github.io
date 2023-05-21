@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Bałazínska | Giuseppe Peronato</title>
+    <link>/author/maria-ba%C5%82azinska/</link>
+      <atom:link href="/author/maria-ba%C5%82azinska/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Bałazínska</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
+      <title>Maria Bałazínska</title>
+      <link>/author/maria-ba%C5%82azinska/</link>
+    </image>
+    
+    <item>
+      <title>FAIR Metadata Standards for Low Carbon Energy Research—A Review of Practices and How to Advance</title>
+      <link>/publication/wierling-fair-2021/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wierling-fair-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

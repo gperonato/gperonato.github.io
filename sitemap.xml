@@ -4,72 +4,307 @@
   
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/peronato-machine-2021/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <loc>/publication/peronato-dhgen-2022/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/district-heating-network/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/giuseppe-peronato/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/jerome-h.-kampf/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/land-use-maps/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/roberto-boghetti/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <loc>/tag/python-module/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/dhgen/</loc>
+    <lastmod>2022-09-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/gis/</loc>
+    <lastmod>2022-09-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2022-09-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rd/</loc>
+    <lastmod>2022-09-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/tools/</loc>
+    <lastmod>2022-09-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/heatlearn/</loc>
+    <lastmod>2022-03-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/web/</loc>
+    <lastmod>2022-03-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/peronato-machine-2021/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/land-use-maps/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roberto-boghetti/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/adel-el-gammal/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alessandro-sciullo/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/astrid-unger/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/august-wierling/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/berfu-solak/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/carlos-m.-fernandez-peruchena/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/carsten-hoyer-klick/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christopher-burger-scheidlin/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/data-standards/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/david-lacroix/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/demet-suna/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-metadata/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/energy-transition/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/fair-data/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wierling-fair-2021/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/janeita-reid/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kevin-joshi/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/low-carbon-energy-research/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mahendranath-ramakrishnan/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/manfred-paier/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-ba%C5%82azinska/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-luisa-fernandez-vanoni/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mariusz-kruczek/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/massimo-celino/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ma%C5%82gorzata-markowska/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mehmet-efe-biresselioglu/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michael-j.-barber/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/muhittin-hakan-demir/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nicolas-dintzner/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nikola-vasiljevic/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pawe%C5%82-g%C5%82adysz/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rafael-mayo-garcia/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/richard-dennis/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robbie-morrison/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sebnem-altinci/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/valeria-jana-schwanitz/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/winston-gilcrease/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/wolfgang-su%C3%9F/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -173,27 +408,7 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/rd/</loc>
-    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/tools/</loc>
-    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/post-carbon-city/</loc>
-    <lastmod>2021-03-08T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/web/</loc>
     <lastmod>2021-03-08T17:02:06+02:00</lastmod>
   </url>
   
@@ -270,11 +485,6 @@
   <url>
     <loc>/author/xiaoyun-zhao/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/gis/</loc>
-    <lastmod>2020-04-19T17:03:36+02:00</lastmod>
   </url>
   
   <url>
@@ -608,7 +818,7 @@
   </url>
   
   <url>
-    <loc>/author/giuseppe-peronato/</loc>
+    <loc>/author/giuseppe-peronato-phd/</loc>
   </url>
   
   <url>

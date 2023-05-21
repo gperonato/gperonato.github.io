@@ -5,7 +5,7 @@
     <link>/tag/land-use-maps/</link>
       <atom:link href="/tag/land-use-maps/index.xml" rel="self" type="application/rss+xml" />
     <description>Land Use Maps</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
       <title>Land Use Maps</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A machine-learning model for the prediction of aggregated building energy demand from pan-European open datasets</title>
       <link>/publication/peronato-machine-2021/</link>
-      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       <guid>/publication/peronato-machine-2021/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;heatlearn_poster_cisbat.pdf&#34;&gt;&lt;img src=&#34;heatlearn_poster_cisbat.png&#34; alt=&#34;CISBAT 2021 Poster.&#34; title=&#34;Click to read the PDF&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
