@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Giuseppe Peronato</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 May 2023 17:02:06 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
       <title>Giuseppe Peronato</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>VeloRouter</title>
+      <link>/project/velorouter/</link>
+      <pubDate>Fri, 19 May 2023 17:02:06 +0200</pubDate>
+      <guid>/project/velorouter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DHgeN: Automated Generation of District Heating Network Layouts for Feasibility Studies</title>

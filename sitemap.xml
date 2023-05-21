@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tag/gis/</loc>
+    <lastmod>2023-05-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2023-05-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2023-05-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rd/</loc>
+    <lastmod>2023-05-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-05-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/tools/</loc>
+    <lastmod>2023-05-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/velorouter/</loc>
+    <lastmod>2023-05-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/web/</loc>
+    <lastmod>2023-05-19T17:02:06+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/1/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
@@ -28,11 +68,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/jerome-h.-kampf/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
@@ -53,42 +88,12 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/dhgen/</loc>
     <lastmod>2022-09-19T17:02:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/gis/</loc>
-    <lastmod>2022-09-19T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2022-09-19T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/rd/</loc>
-    <lastmod>2022-09-19T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/tools/</loc>
-    <lastmod>2022-09-19T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/heatlearn/</loc>
-    <lastmod>2022-03-19T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/web/</loc>
     <lastmod>2022-03-19T17:02:06+02:00</lastmod>
   </url>
   
