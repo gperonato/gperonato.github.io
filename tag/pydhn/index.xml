@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PyDHN | Giuseppe Peronato</title>
+    <link>/tag/pydhn/</link>
+      <atom:link href="/tag/pydhn/index.xml" rel="self" type="application/rss+xml" />
+    <description>PyDHN</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
+      <title>PyDHN</title>
+      <link>/tag/pydhn/</link>
+    </image>
+    
+    <item>
+      <title>Verification of PyDHN - a Python library for the thermo-hydraulic simulation of district heating networks - through the DESTEST</title>
+      <link>/publication/boghetti-verification-2023/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/boghetti-verification-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

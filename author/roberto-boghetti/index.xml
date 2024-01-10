@@ -5,12 +5,20 @@
     <link>/author/roberto-boghetti/</link>
       <atom:link href="/author/roberto-boghetti/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Boghetti</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
       <title>Roberto Boghetti</title>
       <link>/author/roberto-boghetti/</link>
     </image>
+    
+    <item>
+      <title>Verification of PyDHN - a Python library for the thermo-hydraulic simulation of district heating networks - through the DESTEST</title>
+      <link>/publication/boghetti-verification-2023/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/boghetti-verification-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A machine-learning model for the prediction of aggregated building energy demand from pan-European open datasets</title>

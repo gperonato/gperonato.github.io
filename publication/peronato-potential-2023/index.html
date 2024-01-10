@@ -1,0 +1,1111 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  
+  
+  <meta name="generator" content="Wowchemy 5.0.0-beta.1 for Hugo">
+  
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Giuseppe Peronato, PhD">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Industrial waste heat is a valuable heat source to provide a decarbonized supply to district heating networks. In particular, sewage water treatment plants are a widely-available source of waste water, which can be used as part of low-temperature district heating networks.
+In this paper, we present an assessment framework to estimate the potential from existing heat sources to supply a new district network, in terms of heat supplied consumers (number, location and heat coverage) and plausible network layout.
+The case-study application is an evaluation of the waste-water potential in the canton of Zurich. Considering 61 waste-water treatment plants for a total unexploited potential of 607 GWh, we show that 13,077 buildings could be connected to a district heating network originating from such plants. This value represents about 6% of the building stock in the canton of Zurich and 6% of the current estimated heating demand. By considering decentralized water-water heat pumps for each building connected to the network, we find that a 14% electricity saving could be obtained compared to standalone air-water heat pumps.
+By clustering substations according to the potential net revenue for the network operator and automating the tracing of the shortest-path network layout, we estimate the pipework length and the related investment costs.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/publication/peronato-potential-2023/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Heebo:400,700%7CRoboto%7CRoboto+Mono&display=swap">
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.b6b44c3c8126db93a8b4cefbc99ea826.css">
+
+  
+
+
+
+
+  
+
+  
+
+
+  
+  
+
+  
+
+  
+  <link rel="manifest" href="/index.webmanifest">
+  
+
+  <link rel="icon" type="image/png" href="/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/publication/peronato-potential-2023/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Giuseppe Peronato">
+  <meta property="og:url" content="/publication/peronato-potential-2023/">
+  <meta property="og:title" content="Potential for district heating networks from waste heat: an assessment tool and its application to sewage treatment plants in the Canton of Zurich | Giuseppe Peronato">
+  <meta property="og:description" content="Industrial waste heat is a valuable heat source to provide a decarbonized supply to district heating networks. In particular, sewage water treatment plants are a widely-available source of waste water, which can be used as part of low-temperature district heating networks.
+In this paper, we present an assessment framework to estimate the potential from existing heat sources to supply a new district network, in terms of heat supplied consumers (number, location and heat coverage) and plausible network layout.
+The case-study application is an evaluation of the waste-water potential in the canton of Zurich. Considering 61 waste-water treatment plants for a total unexploited potential of 607 GWh, we show that 13,077 buildings could be connected to a district heating network originating from such plants. This value represents about 6% of the building stock in the canton of Zurich and 6% of the current estimated heating demand. By considering decentralized water-water heat pumps for each building connected to the network, we find that a 14% electricity saving could be obtained compared to standalone air-water heat pumps.
+By clustering substations according to the potential net revenue for the network operator and automating the tracing of the shortest-path network layout, we estimate the pipework length and the related investment costs."><meta property="og:image" content="/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2023-11-10T12:32:54&#43;00:00">
+    
+    <meta property="article:modified_time" content="2023-11-10T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/peronato-potential-2023/"
+  },
+  "headline": "Potential for district heating networks from waste heat: an assessment tool and its application to sewage treatment plants in the Canton of Zurich",
+  
+  "datePublished": "2023-11-10T12:32:54Z",
+  "dateModified": "2023-11-10T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Giuseppe Peronato"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Giuseppe Peronato",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Industrial waste heat is a valuable heat source to provide a decarbonized supply to district heating networks. In particular, sewage water treatment plants are a widely-available source of waste water, which can be used as part of low-temperature district heating networks.\nIn this paper, we present an assessment framework to estimate the potential from existing heat sources to supply a new district network, in terms of heat supplied consumers (number, location and heat coverage) and plausible network layout.\nThe case-study application is an evaluation of the waste-water potential in the canton of Zurich. Considering 61 waste-water treatment plants for a total unexploited potential of 607 GWh, we show that 13,077 buildings could be connected to a district heating network originating from such plants. This value represents about 6% of the building stock in the canton of Zurich and 6% of the current estimated heating demand. By considering decentralized water-water heat pumps for each building connected to the network, we find that a 14% electricity saving could be obtained compared to standalone air-water heat pumps.\nBy clustering substations according to the potential net revenue for the network operator and automating the tracing of the shortest-path network layout, we estimate the pipework length and the related investment costs."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Potential for district heating networks from waste heat: an assessment tool and its application to sewage treatment plants in the Canton of Zurich | Giuseppe Peronato</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  ">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.7d92a95e871a711a5c03f82410d0fe5d.js"></script>
+
+  
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Giuseppe Peronato</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Giuseppe Peronato</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#outreach"><span>Outreach</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Potential for district heating networks from waste heat: an assessment tool and its application to sewage treatment plants in the Canton of Zurich</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/giuseppe-peronato/">Giuseppe Peronato</a></span>, <span >
+      <a href="/author/jerome-h.-kampf/">Jérôme H. Kämpf</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/peronato-potential-2023/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1088/1742-6596/2600/2/022014" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Industrial waste heat is a valuable heat source to provide a decarbonized supply to district heating networks. In particular, sewage water treatment plants are a widely-available source of waste water, which can be used as part of low-temperature district heating networks.
+In this paper, we present an assessment framework to estimate the potential from existing heat sources to supply a new district network, in terms of heat supplied consumers (number, location and heat coverage) and plausible network layout.
+The case-study application is an evaluation of the waste-water potential in the canton of Zurich. Considering 61 waste-water treatment plants for a total unexploited potential of 607 GWh, we show that 13,077 buildings could be connected to a district heating network originating from such plants. This value represents about 6% of the building stock in the canton of Zurich and 6% of the current estimated heating demand. By considering decentralized water-water heat pumps for each building connected to the network, we find that a 14% electricity saving could be obtained compared to standalone air-water heat pumps.
+By clustering substations according to the potential net revenue for the network operator and automating the tracing of the shortest-path network layout, we estimate the pipework length and the related investment costs.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Journal of Physics: Conference Series (CISBAT 2023 Conference)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><p><a href="heat-excess_poster_cisbat.pdf"><img src="heat-excess_poster_cisbat.png" alt="CISBAT 2021 Poster." title="Click to read the PDF"></a></p>
+</div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/district-heating-network/">District Heating Network</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/peronato-potential-2023/&amp;text=Potential%20for%20district%20heating%20networks%20from%20waste%20heat:%20an%20assessment%20tool%20and%20its%20application%20to%20sewage%20treatment%20plants%20in%20the%20Canton%20of%20Zurich" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/peronato-potential-2023/&amp;t=Potential%20for%20district%20heating%20networks%20from%20waste%20heat:%20an%20assessment%20tool%20and%20its%20application%20to%20sewage%20treatment%20plants%20in%20the%20Canton%20of%20Zurich" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Potential%20for%20district%20heating%20networks%20from%20waste%20heat:%20an%20assessment%20tool%20and%20its%20application%20to%20sewage%20treatment%20plants%20in%20the%20Canton%20of%20Zurich&amp;body=/publication/peronato-potential-2023/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/peronato-potential-2023/&amp;title=Potential%20for%20district%20heating%20networks%20from%20waste%20heat:%20an%20assessment%20tool%20and%20its%20application%20to%20sewage%20treatment%20plants%20in%20the%20Canton%20of%20Zurich" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Potential%20for%20district%20heating%20networks%20from%20waste%20heat:%20an%20assessment%20tool%20and%20its%20application%20to%20sewage%20treatment%20plants%20in%20the%20Canton%20of%20Zurich%20/publication/peronato-potential-2023/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/peronato-potential-2023/&amp;title=Potential%20for%20district%20heating%20networks%20from%20waste%20heat:%20an%20assessment%20tool%20and%20its%20application%20to%20sewage%20treatment%20plants%20in%20the%20Canton%20of%20Zurich" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+    Published with
+    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
+    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
+    open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/en/js/wowchemy.min.2cf2fb1ac7d211a92d7a0c9105a6389a.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

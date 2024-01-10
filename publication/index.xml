@@ -5,12 +5,37 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu9b267b0aefc2a2d4cc91bda64951c871_10671_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Potential for district heating networks from waste heat: an assessment tool and its application to sewage treatment plants in the Canton of Zurich</title>
+      <link>/publication/peronato-potential-2023/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/peronato-potential-2023/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;heat-excess_poster_cisbat.pdf&#34;&gt;&lt;img src=&#34;heat-excess_poster_cisbat.png&#34; alt=&#34;CISBAT 2021 Poster.&#34; title=&#34;Click to read the PDF&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Machine Learning Model for the Prediction of Building Hourly Heating Demand from CityGML Files: Training Workflow and Deployment as an API</title>
+      <link>/publication/tognoli-machine-2023/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/tognoli-machine-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of PyDHN - a Python library for the thermo-hydraulic simulation of district heating networks - through the DESTEST</title>
+      <link>/publication/boghetti-verification-2023/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/boghetti-verification-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DHgeN: Automated Generation of District Heating Network Layouts for Feasibility Studies</title>

@@ -3,12 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tag/gis/</loc>
-    <lastmod>2023-05-19T17:02:06+02:00</lastmod>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/district-heating-network/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/giuseppe-peronato/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jerome-h.-kampf/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/peronato-potential-2023/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/3d-city-models/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/tognoli-machine-2023/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/citygml/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/decision-tree-learning/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/destest/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marco-tognoli/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pydhn/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rest-api/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roberto-boghetti/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/boghetti-verification-2023/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/gis/</loc>
     <lastmod>2023-05-19T17:02:06+02:00</lastmod>
   </url>
   
@@ -19,11 +114,6 @@
   
   <url>
     <loc>/tag/rd/</loc>
-    <lastmod>2023-05-19T17:02:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2023-05-19T17:02:06+02:00</lastmod>
   </url>
   
@@ -43,42 +133,7 @@
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/peronato-dhgen-2022/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/district-heating-network/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/giuseppe-peronato/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jerome-h.-kampf/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -109,11 +164,6 @@
   
   <url>
     <loc>/tag/land-use-maps/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/roberto-boghetti/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url>
   
